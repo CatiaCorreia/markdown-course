@@ -1,4 +1,4 @@
 4
-- [ ] Turn on Github Pagees
-- [ ] Outline my porftfolio
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
 - [ ] Introduce myself to the world
